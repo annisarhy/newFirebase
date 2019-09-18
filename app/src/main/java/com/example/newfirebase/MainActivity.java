@@ -28,9 +28,10 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-
-    public static final String ARTIST_NAME = "com.example.newfirebase.artistname";
-    public static final String ARTIST_ID = "com.example.newfirebase.artistid";
+    //public static final String ARTIST_NAME = "net.simplifiedcoding.firebasedatabaseexample.artistname";
+    //public static final String ARTIST_ID = "net.simplifiedcoding.firebasedatabaseexample.artistid";
+    public static final String ARTIST_NAME = "artistname";
+    public static final String ARTIST_ID = "artistid";
 
     EditText editTextName;
     Spinner spinnerGenre;

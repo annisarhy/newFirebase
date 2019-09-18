@@ -43,7 +43,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/textView"
-        android:text="Tap artis untuk menambahkan data baru"
+        android:paddingBottom="20dp"
+        android:text="Tap artis untuk menambahkan lagu"
         android:textAlignment="center" />
 
     <ListView

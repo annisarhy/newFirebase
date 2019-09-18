@@ -21,7 +21,7 @@
         android:id="@+id/editTextName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter track name" />
+        android:hint="Masukan lagu" />
 
     <LinearLayout
         android:orientation="horizontal"
@@ -51,7 +51,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/linearLayout"
-        android:text="Add" />
+        android:text="Tambah" />
 
     <TextView
         android:id="@+id/textView"
@@ -59,7 +59,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonAddTrack"
         android:padding="20dp"
-        android:text="Tracks"
+        android:text="Lagu"
         android:textAlignment="center"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
